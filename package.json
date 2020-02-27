@@ -1,0 +1,13 @@
+{
+  "name": "edgarburtnieks",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "gridsome": "^0.7.0",
+    "gridsome-plugin-netlify-cms": "^1.0.9"
+  }
+}
